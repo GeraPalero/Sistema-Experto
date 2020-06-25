@@ -38,8 +38,8 @@ def setup ():
     global background_filling
     screen = pg.display.set_mode((width,height))
     pg.display.set_caption('Zelle')
-    background_filling = pg.image.load(r'D:\Users\gerap\Desktop\Ing. Mecatróncia\Sexto Semestre\Sistemas Expertos\Práctica 2\Documents\Windows\BackGroundZelle.jpg')
-    zelle_icon = pg.image.load(r'D:\Users\gerap\Desktop\Ing. Mecatróncia\Sexto Semestre\Sistemas Expertos\Práctica 2\Documents\Windows\ICONS.png')
+    background_filling = pg.image.load(r'BackGroundZelle.jpg')
+    zelle_icon = pg.image.load(r'ICONS.png')
     screen.blit(background_filling, (0, 0))
     pg.display.set_icon(zelle_icon) 
     pg.display.update()
