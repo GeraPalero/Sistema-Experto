@@ -1,0 +1,124 @@
+{
+    "Exo R": {
+        "Int Sana": [
+            0.52,
+            0.14
+        ],
+        "Int VPH": [
+            0.52,
+            0.86
+        ],
+        "Sup Sana": [
+            0.48,
+            0.91
+        ],
+        "Sup VPH": [
+            0.48,
+            0.09
+        ],
+        "ISC": [
+            "Pertenece al estrato intermedio",
+            "Las c\u00e9lulas se encuentran sanas"
+        ],
+        "IVC": [
+            "Pertenece al estrato intermedio",
+            "Las c\u00e9lulas se encuentran infectadas por el VPH"
+        ],
+        "SVC": [
+            "Pertenece al estrato superior",
+            "Las c\u00e9lulas se encuentran infectadas por el VPH"
+        ],
+        "SSC": [
+            "Pertenece al estrato superior",
+            "Las c\u00e9lulas se encuentran sanas"
+        ]
+    },
+    "Exo NR": {
+        "Basal Sana": [
+            0.01,
+            0.46
+        ],
+        "Basal VPH": [
+            0.01,
+            0.54
+        ],
+        "Parab Sana": [
+            0.99,
+            0.46
+        ],
+        "Parab VPH": [
+            0.99,
+            0.54
+        ],
+        "BSC": [
+            "Pertenece al estrato basal",
+            "Las c\u00e9lulas se encuentran sanas"
+        ],
+        "BVC": [
+            "Pertenece al estrato basal",
+            "Las c\u00e9lulas se encuentran infectadas por el VPH"
+        ],
+        "PSC": [
+            "Pertenece al estrato parabasal",
+            "Las c\u00e9lulas se encuentran sanas"
+        ],
+        "PVC": [
+            "Pertenece al estrato parabasal",
+            "Las c\u00e9lulas se encuentran infectadas por el VPH"
+        ]
+    },
+    "Endo": {
+        "Ciliada": [
+            1.0,
+            1.0,
+            0.24,
+            0.83
+        ],
+        "Secretora": [
+            1.0,
+            1.0,
+            0.24,
+            0.17
+        ],
+        "Adeno": [
+            1.0,
+            1.0,
+            0.61
+        ],
+        "CC": [
+            "Pertenece al epitelio cilindrico",
+            "Las c\u00e9lulas son de tipo columnar",
+            "Las c\u00e9lulas se encuentran sanas",
+            "Las c\u00e9lulas son en su mayor\u00eda ciliadas"
+        ],
+        "SC": [
+            "Pertenece al epitelio cilindrico",
+            "Las c\u00e9lulas son de tipo columnar",
+            "Las c\u00e9lulas se encuentran sanas",
+            "Las c\u00e9lulas son en su mayor\u00eda secretoras"
+        ],
+        "AC": [
+            "Pertenece al epitelio cilindrico",
+            "Las c\u00e9lulas son de tipo columnar",
+            "Se encuentra afectada por adenocarcinoma"
+        ]
+    },
+    "ZT": {
+        "Meta In": [
+            0.72,
+            0.47
+        ],
+        "Meta M": [
+            0.72,
+            0.53
+        ],
+        "MIC": [
+            "Posee c\u00e9lulas metapl\u00e1sicas",
+            "La metaplasia es inmadura"
+        ],
+        "MMC": [
+            "Posee c\u00e9lulas metapl\u00e1sicas",
+            "La metaplasia es madura"
+        ]
+    }
+}
